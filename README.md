@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Maria Riaz</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img allign="left side" alt = "coding" width = "400" src = "https://giffiles.alphacoders.com/121/12113.gif">
+<img allign="center" alt = "coding" width = "900" src = "https://giffiles.alphacoders.com/121/12113.gif">
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <h2 align="center">Hi 👋, I'm Maria Riaz</h2>
+  <p align="center">🏆 A passionate frontend developer from Pakistan</p>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariariaz9800&label=Profile%20views&color=0e75b6&style=flat" alt="mariariaz9800" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariariaz9800" alt="mariariaz9800" /></a> </p>
